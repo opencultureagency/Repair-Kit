@@ -23,3 +23,16 @@
 - assembly: packing everything
     - putting 
 - document feedback in issue list
+
+
+
+## Footsteps
+
+This "Repair Kit" originated from the universal modules idea of the [#ASKotec](https://askotec.openculture.agency) the source files of other training modules and kits can be found via [ASKotec-Modules](https://github.com/opencultureagency/ASKotec-Modules). The design is inspired and in parts integrated from there. 
+
+
+## Credits
+
+Detailed License notes will follow
+
+The initial Design for this new **Repair Kit** approach was supported via [repame.de](https://repami.de).

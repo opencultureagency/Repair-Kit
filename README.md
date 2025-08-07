@@ -39,7 +39,7 @@ The current production process for the kit:
 * Documenting feedback in the issue list.
 
 
-## Related Projects & Documentation
+## History
 
 This project originated from the universal modules concept of the **#ASKotec** project, designed for non-urban use in Africa. The documentation for the predecessor version is available on the [ASKotec GitHub](https://github.com/opencultureagency/ASKotec).
 

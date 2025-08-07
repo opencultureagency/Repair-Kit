@@ -4,7 +4,6 @@
 
 The Universal Repair Kit is a compact, modular, and robust toolkit designed to empower people to repair small devices, household appliances, and minor machinery. Its **open-source** design and clear organization make it an ideal solution for a wide range of use cases, from community initiatives to personal projects.
 
----
 
 ## Key Features
 
@@ -12,8 +11,6 @@ The Universal Repair Kit is a compact, modular, and robust toolkit designed to e
 * **Clear Organization**: Every tool has its place, making it easy to see which tools are missing at a glance.
 * **Rugged and Mobile**: Built to withstand the demands of mobile use, the case is **shockproof, dustproof, and waterproof**.
 * **Open Source**: The complete documentation for the kit's construction and contents is available here. You can build, modify, and improve upon the design to suit your own needs and create new modules for different use cases.
-
----
 
 ## Application Scenarios
 
@@ -25,7 +22,6 @@ The Urban Repair Kit is a versatile tool with many potential applications:
 * **Education and Training**: excellent resource for teaching repair skills in schools, community colleges, or adult education programs
 * **Personal Use**: A comprehensive and well-organized toolkit for anyone who wants a solid repair foundation at home
 
----
 
 ## Production Steps
 
@@ -42,7 +38,6 @@ The current production process for the kit:
 * Final assembly and packing.
 * Documenting feedback in the issue list.
 
----
 
 ## Related Projects & Documentation
 
@@ -50,7 +45,6 @@ This project originated from the universal modules concept of the **#ASKotec** p
 
 Source files for other training modules and kits can be found via [ASKotec-Modules](https://github.com/opencultureagency/ASKotec-Modules).
 
----
 
 ## Credits
 

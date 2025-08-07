@@ -1,6 +1,6 @@
 # Repair Kit
 
-![](assets/Intro.JPG)
+![](assets/Intro.jpg)
 
 The Universal Repair Kit is a compact, modular, and robust toolkit designed to empower people to repair small devices, household appliances, and minor machinery. Its **open-source** design and clear organization make it an ideal solution for a wide range of use cases, from community initiatives to personal projects.
 

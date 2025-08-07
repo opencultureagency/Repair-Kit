@@ -12,6 +12,8 @@ The Universal Repair Kit is a compact, modular, and robust toolkit designed to e
 * **Rugged and Mobile**: Built to withstand the demands of mobile use, the case is **shockproof, dustproof, and waterproof**.
 * **Open Source**: The complete documentation for the kit's construction and contents is available here. You can build, modify, and improve upon the design to suit your own needs and create new modules for different use cases.
 
+![](assets/Repair-Kit-modules-focus.JPG)
+
 ## Application Scenarios
 
 The Urban Repair Kit is a versatile tool with many potential applications:

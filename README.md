@@ -35,4 +35,4 @@ This "Repair Kit" originated from the universal modules idea of the [#ASKotec](h
 
 Detailed License notes will follow
 
-The initial Design for this new **Repair Kit** approach was supported via [repame.de](https://repami.de).
+The initial Design for this new **Repair Kit** approach was supported via [repami.de](https://repami.de).

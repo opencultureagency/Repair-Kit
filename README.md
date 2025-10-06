@@ -1,38 +1,62 @@
-# Repair Kit Documentation (WIP)
+# Repair Kit
 
-![](assets/Intro.JPG)
+![](assets/Intro.jpg)
+
+The Universal Repair Kit is a compact, modular, and robust toolkit designed to empower people to repair small devices, household appliances, and minor machinery. Its **open-source** design and clear organization make it an ideal solution for a wide range of use cases, from community initiatives to personal projects.
 
 
-- add new source files to folder: `/src`
-- add additional files, images etc. to folder: `/assets`
-- create new folders if needed according to: `dir-std`
-- `/prod` for production files (without photos etc in the file)
+## Key Features
+
+* **Modular Design**: The kit is built in a modular fashion, allowing for customization to fit various repair scenarios. The current version includes **basic equipment modules (plus a first aid kit), a soldering module, and a basic electronics module**. You can easily add new modules for specific needs.
+* **Clear Organization**: Every tool has its place, making it easy to see which tools are missing at a glance.
+* **Rugged and Mobile**: Built to withstand the demands of mobile use, the case is **shockproof, dustproof, and waterproof**.
+* **Open Source**: The complete documentation for the kit's construction and contents is available here. You can build, modify, and improve upon the design to suit your own needs and create new modules for different use cases.
+
+![](assets/Repair-Kit-modules-focus.JPG)
+
+## Application Scenarios
+
+The Urban Repair Kit is a versatile tool with many potential applications:
+
+* **Repair Initiatives**: for local repair initiatives, such as **Repair Cafés**, providing a mobile and well-organized toolset for on-site repairs
+* **Mobile Events**: use the kit for demonstrations or actual repairs at events, workshops, or public gatherings
+* **Lending Programs**: for lending to individuals or organizations through initiatives, such as repair cafés, public libraries, or maker spaces
+* **Education and Training**: excellent resource for teaching repair skills in schools, community colleges, or adult education programs
+* **Personal Use**: A comprehensive and well-organized toolkit for anyone who wants a solid repair foundation at home
+
 
 ## Production Steps
 
-- ordering the items
-- laser-cutting the layers
-- un-packing and checking the items
-- preparing some special items (hook-and-loop cutting, rubber band cutting, heat shrink tubes cutting and "assembly", cut sand-paper in half)
-- picking the items with pick-list (in BOM.fods)
-  (1 kit at a time or multiple kits in parallel)
-- printing and cutting the photos of the tools
-- prepare workspace
-    - 3D-print the glueing-stacking-tool 
-- glueing the layers
-- assembly: packing everything
-    - putting 
-- document feedback in issue list
+The current production process for the kit:
+
+* Ordering all required items.
+* Laser-cutting the cardboard layers.
+* Unpacking and checking all items.
+* Preparing special items (e.g., cutting hook-and-loop fasteners and rubber bands; cutting and putting together heat shrink tubes; cutting sandpaper).
+* Picking items using the provided pick-list (in `BOM.fods`).
+* Printing and cutting the photos of the tools.
+* Preparing the workspace, including 3D-printing the gluing and stacking tool.
+* Gluing the layers together.
+* Final assembly and packing.
+* Documenting feedback in the issue list.
 
 
+## History
 
-## Footsteps
+This project originated from the universal modules concept of the **#ASKotec** project, designed for non-urban use in Africa. The documentation for the predecessor version is available on the [ASKotec GitHub](https://github.com/opencultureagency/ASKotec).
 
-This "Repair Kit" originated from the universal modules idea of the [#ASKotec](https://askotec.openculture.agency) the source files of other training modules and kits can be found via [ASKotec-Modules](https://github.com/opencultureagency/ASKotec-Modules). The design is inspired and in parts integrated from there. 
+Source files for other training modules and kits can be found via [ASKotec-Modules](https://github.com/opencultureagency/ASKotec-Modules).
 
 
 ## Credits
 
-Detailed License notes will follow
+The initial design for this new Repair Kit approach was supported by [repami.de](https://repami.de), a network for quality repairs in Berlin.
 
-The initial Design for this new **Repair Kit** approach was supported via [repame.de](https://repami.de).
+**Detailed license notes will follow.**
+
+### Repository Structure
+
+* `assets/`: Add additional files and images here.
+* `src/`: Add new source files here.
+* `prod/`: For production files (without images, etc.).
+* Create new folders here if needed, following the dir-std standard.

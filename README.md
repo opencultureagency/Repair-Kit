@@ -1,38 +1,77 @@
-# Repair Kit Documentation (WIP)
+# Repair Kit
 
-![](assets/Intro.JPG)
+![](assets/Intro.jpg)
+
+The Universal Repair Kit is a compact, modular, and robust toolkit approach designed to empower people in repair initiatives to repair small devices, electronic & household appliances, and minor machinery. Its **open-source** design and modular organisation make it an ideal solution for a wide range of use cases, from community collaboration to personal projects.
+
+Website: <https://askotec.openculture.agency/Repair-Kit>
+
+## Key Features
+
+* **Modular Design**: The kit is built in a modular fashion, allowing for customisation to fit various repair scenarios. The current version includes **basic equipment modules, for most relevant [application scenarios](#application-scenarios)**. You can easily add new modules for specific needs.
+* **Clear Organisation**: Every tool has its place, making it easy to see which tools are missing at a first look.
+* **Rugged and Mobile**: In combination with a solid case - built to withstand the demands of mobile use, the case is **shockproof, dustproof, and waterproof**.
+* **Open Source**: The complete documentation for the kit's construction and contents is available here. You can [build](/prod/), [modify](/src/), and [improve](https://github.com/opencultureagency/Repair-Kit/issues) upon the design to suit your own needs and create new modules for different use cases and [case studies](#case-studies).
+
+![](assets/Repair-Kit-modules-focus.JPG)
+
+## Application Scenarios
+
+The **Urban Repair Kit** is a first variation as versatile tool with many potential applications:
+
+* **Repair Initiatives**: for local repair initiatives, such as **Repair Cafés**, providing a mobile and well-organised toolset for on-site repairs
+* **Mobile Events**: use the kit for demonstrations or actual repairs at events, workshops, or public gatherings
+* **Lending Programs**: for lending to individuals or organisations through initiatives, such as repair cafés, public libraries, or maker spaces
+* **Education and Training**: excellent resource for teaching repair skills in schools, community colleges, or adult education programs. (feel free [to suggest any features/materials](https://github.com/opencultureagency/Repair-Kit/issues/new) needed for that educational purpose)
+* **Personal Use**: A comprehensive and well-organized toolkit for anyone who wants a solid repair foundation at home, DIY and adaptation possible due to its **open source** collaborative nature
+* `you name it` - add your application scenario via [ticket](https://github.com/opencultureagency/Repair-Kit/issues/new)
+
+## Case Studies
+### "repami network" implementation
+
+In 2025 we started the first implementation in the context of an **"Urban Repair Kit"** for the German repair consortium **"repami**: [BSR, BUND Berlin, Handwerkskammer Berlin, anstiftung](https://repami.de/kontakt).
+
+![repami](/assets/repami/repami-batch-full.JPG)
 
 
-- add new source files to folder: `/src`
-- add additional files, images etc. to folder: `/assets`
-- create new folders if needed according to: `dir-std`
-- `/prod` for production files (without photos etc in the file)
+The project outcome and evaluation will be shared after consolidation with the partners and finishing of the user feedback.
+
+The documentation based on this case study will also be available in German language soon.
 
 ## Production Steps
 
-- ordering the items
-- laser-cutting the layers
-- un-packing and checking the items
-- preparing some special items (hook-and-loop cutting, rubber band cutting, heat shrink tubes cutting and "assembly", cut sand-paper in half)
-- picking the items with pick-list (in BOM.fods)
-  (1 kit at a time or multiple kits in parallel)
-- printing and cutting the photos of the tools
-- prepare workspace
-    - 3D-print the glueing-stacking-tool 
-- glueing the layers
-- assembly: packing everything
-    - putting 
-- document feedback in issue list
+The current production process for the kit:
+
+* Ordering all required items.
+* Laser-cutting the cardboard layers in the [/prod/](/prod/) folder.
+* Unpacking and checking all items.
+* Preparing special items (e.g., cutting hook-and-loop fasteners and rubber bands; cutting and putting together heat shrink tubes; cutting sandpaper).
+* Picking items using the provided pick-list (in `BOM.fods`).
+* Printing and cutting the photos of the tools.
+* Preparing the workspace, including 3D-printing the gluing and stacking tool via `stl` [/prod/](/prod/). (For Bambulab P1S you can use the gcode provided example)
+* Gluing the layers together. (be aware this take a lot of time, alternatively you can also skip the lasered layer approach and use the grid system, visit [/src/CAD/README.md](/src/CAD/README.md))
+* Final assembly and packing. (assembly documentation will follow)
+* Documenting feedback in the issue list]().
+* If you want to become case study partner you can either join [repami.de](https://repami.de/kontakt) in their current unit testing series in Berlin or request a separate project via [openculture.agency](https://openculture.agency).
 
 
+## History
 
-## Footsteps
+This Kit originated from the `ASKmod` and general concept of the **#ASKotec** (Access to Skills and Knowledge - open tech emergency case) Kit, designed for non-urban, rural use in Africa. The **open source** documentation for the predecessor version is available on the [#ASKotec GitHub](https://github.com/opencultureagency/ASKotec). You can find more information on the [Website](https://askotec.openculture.agency).
 
-This "Repair Kit" originated from the universal modules idea of the [#ASKotec](https://askotec.openculture.agency) the source files of other training modules and kits can be found via [ASKotec-Modules](https://github.com/opencultureagency/ASKotec-Modules). The design is inspired and in parts integrated from there. 
+Source files for other training modules and kits can be found via [ASKotec-Modules](https://github.com/opencultureagency/ASKotec-Modules).
 
 
 ## Credits
 
-Detailed License notes will follow
+The initial design for this new Repair Kit approach was supported by [repami.de](https://repami.de), a network for quality repairs in Berlin.
 
-The initial Design for this new **Repair Kit** approach was supported via [repami.de](https://repami.de).
+For all documentation we refer to the [CC-BY-SA 4.0](/LICENSE_CC_BY-SA.md) apart from the technical files via [/src/](/src/) and [/src/CAD](/src/CAD/) in specific we refer to [CERN-OHL-W-2.0-or-later](/LICENSE_cern_ohl_w_v2.txt) for better integration (this also includes all production related exports to the [/prod/](/prod/) directory.). 
+
+### Repository Structure
+
+* `assets/`: Add additional files and images here. case studies, production, 
+* `src/`: Add new source files here.
+* `prod/`: For pure production files (exports, without embedded images, etc.).
+  
+> Create new folders here if needed, following the [osh-dir-std](https://gitlab.com/OSEGermany/osh-dir-std/) standard (we prefer `unixish` at root level for now).

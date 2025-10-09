@@ -458,24 +458,27 @@
    <style:table-column-properties fo:break-before="auto" style:column-width="2.078cm"/>
   </style:style>
   <style:style style:name="co19" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="1.852cm"/>
+   <style:table-column-properties fo:break-before="auto" style:column-width="4.711cm"/>
   </style:style>
   <style:style style:name="co20" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="0.589cm"/>
+   <style:table-column-properties fo:break-before="auto" style:column-width="1.852cm"/>
   </style:style>
   <style:style style:name="co21" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="0.727cm"/>
+   <style:table-column-properties fo:break-before="auto" style:column-width="0.589cm"/>
   </style:style>
   <style:style style:name="co22" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="3.681cm"/>
+   <style:table-column-properties fo:break-before="auto" style:column-width="0.727cm"/>
   </style:style>
   <style:style style:name="co23" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="1.062cm"/>
+   <style:table-column-properties fo:break-before="auto" style:column-width="3.681cm"/>
   </style:style>
   <style:style style:name="co24" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="7.382cm"/>
+   <style:table-column-properties fo:break-before="auto" style:column-width="1.062cm"/>
   </style:style>
   <style:style style:name="co25" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="7.382cm"/>
+  </style:style>
+  <style:style style:name="co26" style:family="table-column">
    <style:table-column-properties fo:break-before="auto" style:column-width="6.223cm"/>
   </style:style>
   <style:style style:name="co26" style:family="table-column">
@@ -2978,7 +2981,7 @@
    <table:table table:name="Modules" table:style-name="ta1">
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <table:table-column table:style-name="co18" table:default-cell-style-name="ce126"/>
-    <table:table-column table:style-name="co2" table:number-columns-repeated="2" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co19" table:number-columns-repeated="2" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co5" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co6" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co7" table:default-cell-style-name="ce73"/>

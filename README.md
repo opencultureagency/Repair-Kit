@@ -26,10 +26,28 @@ The **Urban Repair Kit** is a first variation as versatile tool with many potent
 * **Personal Use**: A comprehensive and well-organized toolkit for anyone who wants a solid repair foundation at home, DIY and adaptation possible due to its **open source** collaborative nature
 * `you name it` - add your application scenario via [ticket](https://github.com/opencultureagency/Repair-Kit/issues/new)
 
-## Case Studies
-### "repami network" implementation
+## Modules included
+- Module 1 (repair-m01): Essentials
+- Module 2 (repair-m02): Soldering
+- Module 3 (repair-m03): Mobile Devices
+- Module 4 (repair-m04): Basic Tools
+- Extras (repair-extras): Extras - packing & additional material 
 
-In 2025 we started the first implementation in the context of an **"Urban Repair Kit"** for the German repair consortium **"repami**: [BSR, BUND Berlin, Handwerkskammer Berlin, anstiftung](https://repami.de/kontakt).
+![](assets/Repair-Kit-modules-extra-ready-demo.JPG)
+
+In the future there are other modules planned as this modular approach is inspired by the [#ASKotec-Modules](https://github.com/opencultureagency/ASKotec-Modules) and repair specific examples are available in the repository:
+
+|Module 05   `draft`   | Module 06   `draft`  | Module 07  `draft`   | Module XX   |
+|     ---       |     ---       |     ---       |     ---       |
+| repair-m05    | repair-m06    | repair-m07    | `you name it` |
+|     ![](assets/repair-m05-front.JPG)       |     ![](assets/repair-m06-front.JPG)         |     ![](assets/repair-m07-front.JPG)         |     tbd       |
+
+
+
+## Case Studies
+### Commissioned Research: Urban Repair Kit in Berlin City
+
+In 2025 we started the first implementation in the context of an **"Urban Repair Kit"** for the German repair consortium **"repami"**: [BSR, BUND Berlin, Handwerkskammer Berlin, anstiftung](https://repami.de/kontakt).
 
 ![repami](/assets/repami/repami-batch-full.JPG)
 
@@ -48,8 +66,8 @@ The current production process for the kit:
 * Preparing special items (e.g., cutting hook-and-loop fasteners and rubber bands; cutting and putting together heat shrink tubes; cutting sandpaper).
 * Picking items using the provided pick-list (in `BOM.fods`).
 * Printing and cutting the photos of the tools.
-* Preparing the workspace, including 3D-printing the gluing and stacking tool via `stl` [/prod/](/prod/). (For Bambulab P1S you can use the gcode provided example)
-* Gluing the layers together. (be aware this take a lot of time, alternatively you can also skip the lasered layer approach and use the grid system, visit [/src/CAD/README.md](/src/CAD/README.md))
+* Preparing the workspace, including 3D-printing the gluing and stacking tool via `stl` [/prod/](/prod/). (For Bambulab P1S you can use the `gcode` provided example)
+* Gluing the layers together. (be aware this take a lot of time, alternatively you can also skip the laser cut layer approach and use the grid system, visit [/src/CAD/README.md](/src/CAD/README.md))
 * Final assembly and packing. (assembly documentation will follow)
 * Documenting feedback in the issue list]().
 * If you want to become case study partner you can either join [repami.de](https://repami.de/kontakt) in their current unit testing series in Berlin or request a separate project via [openculture.agency](https://openculture.agency).
@@ -66,7 +84,7 @@ Source files for other training modules and kits can be found via [ASKotec-Modul
 
 The initial design for this new Repair Kit approach was supported by [repami.de](https://repami.de), a network for quality repairs in Berlin.
 
-For all documentation we refer to the [CC-BY-SA 4.0](/LICENSE_CC_BY-SA.md) apart from the technical files via [/src/](/src/) and [/src/CAD](/src/CAD/) in specific we refer to [CERN-OHL-W-2.0-or-later](/LICENSE_cern_ohl_w_v2.txt) for better integration (this also includes all production related exports to the [/prod/](/prod/) directory.). 
+For all documentation we apply to the [CC-BY-SA 4.0](/LICENSE_CC_BY-SA.md) apart from the technical files via [/src/](/src/) and [/src/CAD](/src/CAD/) in specific we refer to [CERN-OHL-W-2.0-or-later](/LICENSE_cern_ohl_w_v2.txt) for better integration (this also includes all production related exports to the [/prod/](/prod/) directory.). 
 
 ### Repository Structure
 

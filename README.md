@@ -27,11 +27,11 @@ The **Urban Repair Kit** is a first variation as versatile tool with many potent
 * `you name it` - add your application scenario via [ticket](https://github.com/opencultureagency/Repair-Kit/issues/new)
 
 ## Modules included
-- Module 1 (repair-m01): Essentials
-- Module 2 (repair-m02): Soldering
-- Module 3 (repair-m03): Mobile Devices
-- Module 4 (repair-m04): Basic Tools
-- Extras (repair-extras): Extras - packing & additional material 
+- Module 1 ([repair-m01](docs/repair-m01.md)): Essentials
+- Module 2 ([repair-m02](docs/repair-m02.md)): Soldering
+- Module 3 ([repair-m03](docs/repair-m03.md)): Mobile Devices
+- Module 4 ([repair-m04](docs/repair-m04.md)): Basic Tools
+- Extras ([repair-extras]((docs/repair-extras.md))): Extras - packing & additional material 
 
 ![](assets/Repair-Kit-modules-extra-ready-demo.JPG)
 

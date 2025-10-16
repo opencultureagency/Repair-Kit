@@ -1,6 +1,6 @@
 # Basis-Werkzeuge (repair-m04)
 
-![image module repair-m04](../assets/repair-m04-front-image-withnumbers.jpg)
+![image module repair-m04](../../assets/repair-m04-front-image-withnumbers.jpg)
 
 1. Mini-Gewebeband
 1. Mini-Messschieber

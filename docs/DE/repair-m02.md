@@ -1,6 +1,6 @@
 # Löten (repair-m02)
 
-![image module repair-m02](../assets/repair-m02-front-image-withnumbers.jpg)
+![image module repair-m02](../../assets/repair-m02-front-image-withnumbers.jpg)
 
 1. USB Voltmeter (USB-A)
 1. Lötspitzenreiniger

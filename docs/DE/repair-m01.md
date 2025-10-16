@@ -1,6 +1,6 @@
 # Essentials (repair-m01)
 
-![image module repair-m01](../assets/repair-m01-front-image-withnumbers.jpg)
+![image module repair-m01](../../assets/repair-m01-front-image-withnumbers.jpg)
 
 1. Kopflampe (3 Leuchtstufen, inkl. 3 AAA Batterien)
 1. Erste-Hilfe-Kit (mit Brandsalbe)

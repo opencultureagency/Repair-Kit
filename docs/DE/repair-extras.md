@@ -1,6 +1,6 @@
 # Extras
 
-![image extras](../assets/extras-white-withnumbers.png)
+![image extras](../../assets/extras-white-withnumbers.png)
 
 1. Sandpapier (120er Körnung)
 1. Kabelbinder

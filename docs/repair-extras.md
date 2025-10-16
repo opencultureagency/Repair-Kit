@@ -1,6 +1,6 @@
 # Extras
 
-![image extras](../assets/extras-white.jpg)
+![image extras](../assets/extras-white-withnumbers.jpg)
 
 1. sandpaper (120 grit)
 1. cable ties

@@ -1,6 +1,6 @@
 # Essentials (repair-m01)
 
-![repair-m01-front-image-withnumbers.jpg]
+![image module repair-m01](../assets/repair-m01-front-image-withnumbers.jpg)
 
 1. Headlight (3 light settings, includes 3 AAA batteries)
 1. First aid kit (with burn ointment gel)

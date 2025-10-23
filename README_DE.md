@@ -84,7 +84,7 @@ pandoc *.md --template=template.tex -V version="$(git describe --tags --always)"
 Für die deutsche Version (`DE`) ins `/docs/DE` Verzeichnis wechseln und ausführen:
 
 ```bash
-pandoc *.md --template=template.tex -V version="$(git describe --tags --always)" -o ../../gen/Manual-DE.pdf
+pandoc *.md --template=../template.tex -V version="$(git describe --tags --always)" -o ../../gen/Manual-DE.pdf
 ```
 
 ## Historie

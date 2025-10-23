@@ -87,7 +87,7 @@ pandoc *.md --template=template.tex -V version="$(git describe --tags --always)"
 or if you want to generate the German DE version go into the `/docs/DE` directory and run:
 
 ```bash
-pandoc *.md --template=template.tex -V version="$(git describe --tags --always)" -o ../../gen/Manual-DE.pdf
+pandoc *.md --template=../template.tex -V version="$(git describe --tags --always)" -o ../../gen/Manual-DE.pdf
 ```
 
 ## History

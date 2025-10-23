@@ -1,5 +1,7 @@
 # Repair Kit
 
+[[**README auf Deutsch**](/README_DE.md)]
+
 ![](assets/Intro.jpg)
 
 The Universal Repair Kit is a compact, modular, and robust toolkit approach designed to empower people in repair initiatives to repair small devices, electronic & household appliances, and minor machinery. Its **open-source** design and modular organisation make it an ideal solution for a wide range of use cases, from community collaboration to personal projects.

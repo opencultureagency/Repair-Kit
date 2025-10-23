@@ -1,7 +1,3 @@
-Absolutely! Here’s a full German translation of your README.md while keeping the formatting, links, and technical terminology intact:
-
----
-
 # Reparatur-Kit
 
 ![](assets/Intro.jpg)

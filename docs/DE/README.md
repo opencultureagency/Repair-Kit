@@ -4,7 +4,7 @@
 
 (Deutsche Fassung)
 
-![](../assets/Exploded-Floating-side-white-square.png)
+![](../../assets/Exploded-Floating-side-white-square.png)
 
 ## Enthaltene Module
 

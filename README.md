@@ -31,7 +31,7 @@ The **Urban Repair Kit** is a first variation as versatile tool with many potent
 - Module 2 ([repair-m02](docs/repair-m02.md)): Soldering
 - Module 3 ([repair-m03](docs/repair-m03.md)): Mobile Devices
 - Module 4 ([repair-m04](docs/repair-m04.md)): Basic Tools
-- Extras ([repair-extras]((docs/repair-extras.md))): Extras - packing & additional material 
+- Extras ([repair-extras](docs/repair-extras.md)): Extras - packing & additional material 
 
 ![](assets/Repair-Kit-modules-extra-ready-demo.JPG)
 
@@ -72,6 +72,21 @@ The current production process for the kit:
 * Documenting feedback in the issue list]().
 * If you want to become case study partner you can either join [repami.de](https://repami.de/kontakt) in their current unit testing series in Berlin or request a separate project via [openculture.agency](https://openculture.agency).
 
+## Dokumentation rendering
+
+For rendering the documentation please refer to the [template.tex](/docs/template.tex) in order to generate a good PDF via pandoc (including the current Git Repository `version`):
+
+make sure to navigate into the `/docs` folder an run the following command:
+
+```bash
+pandoc *.md --template=template.tex -V version="$(git describe --tags --always)" -o ../gen/Manual-EN.pdf
+```
+
+or if you want to generate the German DE version go into the `/docs/DE` directory and run:
+
+```bash
+pandoc *.md --template=template.tex -V version="$(git describe --tags --always)" -o ../../gen/Manual-DE.pdf
+```
 
 ## History
 

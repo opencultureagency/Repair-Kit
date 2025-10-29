@@ -41,7 +41,7 @@ In the future there are other modules planned as this modular approach is inspir
 
 |Module 05   `draft`   | Module 06   `draft`  | Module 07  `draft`   | Module XX   |
 |     ---       |     ---       |     ---       |     ---       |
-| repair-m05    | repair-m06    | repair-m07    | `you name it` |
+| repair-m05 "Mobile Soldering"    | repair-m06 "Bike Basics"   | repair-m07 "Wrenches"   | `you name it` |
 |     ![](assets/repair-m05-front.JPG)       |     ![](assets/repair-m06-front.JPG)         |     ![](assets/repair-m07-front.JPG)         |     tbd       |
 
 

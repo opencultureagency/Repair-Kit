@@ -40,7 +40,7 @@ Weitere Module sind zukünftig geplant, da der modulare Ansatz von den [#ASKotec
 
 | Modul 05   `Entwurf`             | Modul 06   `Entwurf`             | Modul 07  `Entwurf`              | Modul XX      |
 |----------------------------------|----------------------------------|----------------------------------|---------------|
-| repair-m05                       | repair-m06                       | repair-m07                       | `you name it` |
+| repair-m05 "Mobiles Löten"                      | repair-m06 "Fahrrad Allgemein"                      | repair-m07 "Schraubenschlüssel"                      | `you name it` |
 | ![](assets/repair-m05-front.JPG) | ![](assets/repair-m06-front.JPG) | ![](assets/repair-m07-front.JPG) | tbd           |
 
 ## Fallstudien

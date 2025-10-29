@@ -4,7 +4,7 @@
 
 ![](assets/Intro.jpg)
 
-The Universal Repair Kit is a compact, modular, and robust toolkit approach designed to empower people in repair initiatives to repair small devices, electronic & household appliances, and minor machinery. Its **open-source** design and modular organisation make it an ideal solution for a wide range of use cases, from community collaboration to personal projects.
+The Universal Repair Kit is a compact, modular, and robust toolkit approach designed to empower people in repair initiatives to repair small devices, electronic & household appliances, and minor machinery. Its **open-source** design and modular organisation make it an ideal solution for a wide range of use cases, from community collaboration to educational or personal projects.
 
 Website: <https://askotec.openculture.agency/Repair-Kit>
 
@@ -19,9 +19,9 @@ Website: <https://askotec.openculture.agency/Repair-Kit>
 
 ## Application Scenarios
 
-The **Urban Repair Kit** is a first variation as versatile tool with many potential applications:
+The originally called **"Urban Repair Kit"** is a first variation as versatile tool with many potential applications:
 
-* **Repair Initiatives**: for local repair initiatives, such as **Repair Cafés**, providing a mobile and well-organised toolset for on-site repairs
+* **Repair Initiatives**: for local repair initiatives, such as **Repair Cafés**, providing a mobile and well-organised toolset for on-site repairs. Startup initiatives especially
 * **Mobile Events**: use the kit for demonstrations or actual repairs at events, workshops, or public gatherings
 * **Lending Programs**: for lending to individuals or organisations through initiatives, such as repair cafés, public libraries, or maker spaces
 * **Education and Training**: excellent resource for teaching repair skills in schools, community colleges, or adult education programs. (feel free [to suggest any features/materials](https://github.com/opencultureagency/Repair-Kit/issues/new) needed for that educational purpose)
@@ -47,7 +47,7 @@ In the future there are other modules planned as this modular approach is inspir
 
 
 ## Case Studies
-### Commissioned Research: Urban Repair Kit in Berlin City
+### Commissioned Research: The "Urban Repair Kit" in Berlin City
 
 In 2025 we started the first implementation in the context of an **"Urban Repair Kit"** for the German repair consortium **"repami"**: [BSR, BUND Berlin, Handwerkskammer Berlin, anstiftung](https://repami.de/kontakt).
 
@@ -56,7 +56,11 @@ In 2025 we started the first implementation in the context of an **"Urban Repair
 
 The project outcome and evaluation will be shared after consolidation with the partners and finishing of the user feedback.
 
-The documentation based on this case study will also be available in German language soon.
+The documentation based on this case study is available in German language too, visit:
+
+<https://askotec.openculture.agency/reparaturkit>
+
+The Kit was produced five times and distributed to five initiatives/repair organisations for this purpose.
 
 ## Production Steps
 

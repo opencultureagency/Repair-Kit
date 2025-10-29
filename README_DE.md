@@ -10,7 +10,7 @@ Website: [https://askotec.openculture.agency/Repair-Kit](https://askotec.opencul
 
 * **Modulares Design**: Das Kit ist modular aufgebaut, wodurch es sich an unterschiedliche Reparaturszenarien anpassen lässt. Die aktuelle Version enthält **Basisausstattungs-Module für die wichtigsten [Anwendungsszenarien](#anwendungsszenarien)**. Neue Module für spezielle Anforderungen können einfach hinzugefügt werden.
 * **Klare Organisation**: Jedes Werkzeug hat seinen festen Platz, sodass auf den ersten Blick ersichtlich ist, welche Werkzeuge fehlen.
-* **Robust und mobil**: In Kombination mit einem stabilen Koffer – gebaut für die Anforderungen mobiler Nutzung – ist der Koffer **stoßfest, staubdicht und wasserdicht**.
+* **Robust und mobil**: Durch den stabilen Koffer – gebaut für die Anforderungen mobiler Nutzung – ist es **stoßfest, staubdicht und wasserdicht**.
 * **Open Source**: Die vollständige Dokumentation für Aufbau und Inhalt des Kits ist hier verfügbar. Du kannst das Design [bauen](/prod/), [modifizieren](/src/) und [verbessern](https://github.com/opencultureagency/Repair-Kit/issues), um es an deine Bedürfnisse anzupassen, neue Module für verschiedene Anwendungsfälle zu erstellen und [Fallstudien](#fallstudien) zu entwickeln.
 
 ![](assets/Repair-Kit-modules-focus.JPG)

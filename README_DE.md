@@ -17,9 +17,9 @@ Website: [https://askotec.openculture.agency/Repair-Kit](https://askotec.opencul
 
 ## Anwendungsszenarien
 
-Das **Urban Repair Kit** ist eine erste Variante als vielseitiges Werkzeug mit vielen potenziellen Anwendungen:
+Das ursprünglich benannte **"Urban Repair Kit"** ist eine erste Variante als vielseitiges Werkzeug mit vielen potenziellen Anwendungen:
 
-* **Reparaturinitiativen**: Für lokale Reparaturinitiativen wie **Repair Cafés**, um ein mobiles und gut organisiertes Werkzeugset für Vor-Ort-Reparaturen bereitzustellen.
+* **Reparaturinitiativen**: Für lokale Reparaturinitiativen wie **Repair Cafés**, um ein mobiles und gut organisiertes Werkzeugset für Vor-Ort-Reparaturen bereitzustellen. Besonders geeignet für Initiativen in Gründung.
 * **Mobile Veranstaltungen**: Nutzung des Kits für Demonstrationen oder tatsächliche Reparaturen bei Events, Workshops oder öffentlichen Veranstaltungen.
 * **Leihprogramme**: Zum Verleih an Einzelpersonen oder Organisationen über Initiativen wie Repair Cafés, öffentliche Bibliotheken oder Makerspaces.
 * **Bildung und Ausbildung**: Hervorragendes Hilfsmittel zum Lehren von Reparaturfähigkeiten in Schulen, Volkshochschulen oder Erwachsenenbildungsprogrammen. (Vorschläge für zusätzliche [Features/Materialien](https://github.com/opencultureagency/Repair-Kit/issues/new) für den Bildungszweck sind willkommen.)
@@ -45,7 +45,7 @@ Weitere Module sind zukünftig geplant, da der modulare Ansatz von den [#ASKotec
 
 ## Fallstudien
 
-### Auftraggeber: Urban Repair Kit in Berlin
+### Auftraggeber: repami - Das "Urban Repair Kit" in Berlin
 
 2025 starteten wir die erste Umsetzung im Kontext des **„Urban Repair Kit“** für das deutsche Reparaturkonsortium **„repami“**: [BSR, BUND Berlin, Handwerkskammer Berlin, anstiftung](https://repami.de/kontakt).
 
@@ -53,7 +53,11 @@ Weitere Module sind zukünftig geplant, da der modulare Ansatz von den [#ASKotec
 
 Die Projektergebnisse und Evaluationen werden nach Abschluss der Konsolidierung mit den Partnern und Fertigstellung des Nutzerfeedbacks veröffentlicht.
 
-Die Dokumentation basierend auf dieser Fallstudie wird bald auch in deutscher Sprache verfügbar sein.
+Die Dokumentation basierend auf dieser Fallstudie ist auch in deutscher Sprache verfügbar, siehe auch:
+
+<https://askotec.openculture.agency/reparaturkit>
+
+Der Koffer wurde 5x hergestellt und zu diesem Zweck an 5 Initiativen/Reparatur-Akteure vergeben.
 
 ## Produktionsschritte
 

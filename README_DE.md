@@ -78,13 +78,13 @@ Für die Erstellung der Dokumentation bitte die [template.tex](/docs/template.te
 Wechsle in den `/docs`-Ordner und führe folgenden Befehl aus:
 
 ```bash
-pandoc *.md --template=template.tex -V version="$(git describe --tags --always)" -o ../gen/Manual-EN.pdf
+pandoc *.md --template=template.tex -V version="$(git describe --tags --always)" -o Manual-EN.pdf
 ```
 
 Für die deutsche Version (`DE`) ins `/docs/DE` Verzeichnis wechseln und ausführen:
 
 ```bash
-pandoc *.md --template=../template.tex -V version="$(git describe --tags --always)" -o ../../gen/Manual-DE.pdf
+pandoc *.md --template=../template.tex -V version="$(git describe --tags --always)" -o Manual-DE.pdf
 ```
 
 ## Historie

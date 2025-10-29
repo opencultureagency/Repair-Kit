@@ -1,0 +1,46 @@
+\documentclass[11pt,a4paper]{article}
+
+% --- Encoding & fonts ---
+\usepackage[utf8]{inputenc}   % UTF-8 support for pdflatex
+\usepackage[T1]{fontenc}      % better font encoding
+\usepackage{lmodern}          % Latin Modern font
+
+% --- Page geometry ---
+\usepackage[a4paper,margin=2.5cm]{geometry}  % 2.5 cm margins all around
+
+% --- Line spacing ---
+\linespread{1.15}             % 1.15 line spacing
+
+% --- Section formatting ---
+\usepackage{titlesec}
+\newcommand{\sectionbreak}{\clearpage}
+\setcounter{secnumdepth}{0}   % remove section/chapter numbering
+
+\usepackage[labelformat=empty]{caption}  % remove figure captions
+
+% --- Images ---
+\usepackage{graphicx}         % for \includegraphics
+\usepackage{adjustbox}        % scale images
+\setkeys{Gin}{width=\linewidth, keepaspectratio}
+
+% --- Header/Footer ---
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\rhead{Version: $version$}    % Git version injected via -V version=...
+\lhead{\leftmark}             % section/subsection title
+\rfoot{\thepage}              % page number
+
+% --- Links ---
+\usepackage{hyperref}
+
+% --- Pandoc tightlist fix with slight spacing ---
+\providecommand{\tightlist}{%
+	\setlength{\itemsep}{2pt}
+	\setlength{\parskip}{0pt}}
+
+\begin{document}
+	
+	$body$
+	
+\end{document}

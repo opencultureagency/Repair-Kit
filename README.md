@@ -101,7 +101,7 @@ Source files for other training modules and kits can be found via [ASKotec-Modul
 
 The initial design for this new Repair Kit approach was supported by [repami.de](https://repami.de), a network for quality repairs in Berlin.
 
-For all documentation we apply to the [CC-BY-SA 4.0](/LICENSE_CC_BY-SA.md) apart from the technical files via [/src/](/src/) and [/src/CAD](/src/CAD/) in specific we refer to [CERN-OHL-W-2.0-or-later](/LICENSE_cern_ohl_w_v2.txt) for better integration (this also includes all production related exports to the [/prod/](/prod/) directory.). 
+On all documentation we apply the [CC-BY-SA 4.0](/LICENSE_CC_BY-SA.md). Apart from that, on the technical files (in [/src/](/src/) and [/src/CAD](/src/CAD/) in specific) we apply the [CERN-OHL-W-2.0-or-later](/LICENSE_cern_ohl_w_v2.txt) for better integration (this also includes all production related exports to the [/prod/](/prod/) directory.). 
 
 ### Repository Structure
 

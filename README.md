@@ -6,7 +6,7 @@
 
 The Universal Repair Kit is a compact, modular, and robust toolkit approach designed to empower people in repair initiatives to repair small devices, electronic & household appliances, and minor machinery. Its **open-source** design and modular organisation make it an ideal solution for a wide range of use cases, from community collaboration to educational or personal projects.
 
-Website: <https://askotec.openculture.agency/Repair-Kit>
+Website: <https://askotec.openculture.agency/repairkit>
 
 ## Key Features
 
@@ -49,7 +49,7 @@ In the future there are other modules planned as this modular approach is inspir
 ## Case Studies
 ### Commissioned Research: The "Urban Repair Kit" in Berlin City
 
-In 2025 we started the first implementation in the context of an **"Urban Repair Kit"** for the German repair consortium **"repami"**: [BSR, BUND Berlin, Handwerkskammer Berlin, anstiftung](https://repami.de/kontakt).
+In 2025 we started the first implementation in the context of an **"Urban Repair Kit"** for the German consortium ["**repami**, the quality repair network, formed by Berliner Stadtreinigung, the Berlin Handwerkskammer, and anstiftung in cooperation with BUND Berlin”](https://repami.de/kontakt).
 
 ![repami](/assets/repami/repami-batch-full.JPG)
 

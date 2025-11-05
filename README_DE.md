@@ -4,7 +4,7 @@
 
 Das **Universelle Reparatur-Kit** ist ein kompaktes, modulares und robustes Werkzeug-Set, das Menschen in Reparaturinitiativen befähigen soll, kleine Geräte, elektronische & Haushaltsgeräte sowie kleinere Maschinen zu reparieren. Sein **Open-Source**-Design und die modulare Organisation machen es zu einer idealen Lösung für eine Vielzahl von Anwendungsfällen, von gemeinschaftlicher Zusammenarbeit bis hin zu persönlichen Projekten.
 
-Website: [https://askotec.openculture.agency/Repair-Kit](https://askotec.openculture.agency/Repair-Kit)
+Website: [https://askotec.openculture.agency/RepairKit](https://askotec.openculture.agency/repairkit)
 
 ## Hauptmerkmale
 
@@ -45,9 +45,9 @@ Weitere Module sind zukünftig geplant, da der modulare Ansatz von den [#ASKotec
 
 ## Fallstudien
 
-### Auftraggeber: repami - Das "Urban Repair Kit" in Berlin
+### Auftragsforschung: repami - Das "Urban Repair Kit" in Berlin
 
-2025 starteten wir die erste Umsetzung im Kontext des **„Urban Repair Kit“** für das deutsche Reparaturkonsortium **„repami“**: [BSR, BUND Berlin, Handwerkskammer Berlin, anstiftung](https://repami.de/kontakt).
+2025 starteten wir die erste Umsetzung im Kontext des **„Urban Repair Kit“** für das deutsche Konsortium ["**repami**, das Netzwerk Qualitätsreparatur, bestehend aus Berliner Stadtreinigung, Handwerkskammer Berlin und anstiftung in Zusammenarbeit mit dem BUND Berlin"](https://repami.de/kontakt).
 
 ![repami](/assets/repami/repami-batch-full.JPG)
 

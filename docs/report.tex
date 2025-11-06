@@ -1,0 +1,79 @@
+\documentclass[11pt,a4paper]{article}
+
+% --- Encoding & fonts ---
+\usepackage[utf8]{inputenc}   % UTF-8 support for pdflatex
+\usepackage[T1]{fontenc}      % better font encoding
+\usepackage{lmodern}          % Latin Modern font
+
+% --- Page geometry ---
+\usepackage[a4paper,margin=2.5cm]{geometry}  % 2.5 cm margins all around
+
+% --- Line spacing ---
+\linespread{1.15}             % 1.15 line spacing
+
+% --- Section formatting ---
+\usepackage{titlesec}
+\setcounter{secnumdepth}{0}   % remove section/chapter numbering
+\newcommand{\sectionbreak}{\clearpage}
+
+% --- Figures ---
+\usepackage{graphicx}
+\usepackage{adjustbox}
+\setkeys{Gin}{width=\linewidth,keepaspectratio}
+\usepackage[labelformat=empty]{caption} % remove figure captions
+
+% --- Tables ---
+\usepackage{longtable}        % für Pandoc longtable
+\usepackage{booktabs}         % optional schöne Tabellenlinien
+\usepackage{array}            % optionale Spaltenfeatures
+
+% --- Lists ---
+\providecommand{\tightlist}{%
+	\setlength{\itemsep}{2pt}%
+	\setlength{\parskip}{0pt}%
+}
+
+% --- Header / Footer ---
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\rhead{Version: $version$} % Git version via -V version=...
+\lhead{\leftmark}          % Section/Subsection title
+\rfoot{\thepage}           % Page number
+
+% --- Links ---
+\usepackage{hyperref}
+
+% --- Language ---
+\usepackage[english,ngerman,provide=*]{babel} % DE/EN via YAML
+
+% --- Begin Document ---
+\begin{document}
+	
+	% --- Titelseite ---
+	\begin{titlepage}
+		\centering
+		{\Huge\bfseries $title$\par}
+		\vspace{1cm}
+		{\Large $author$\par}
+		\vspace{0.5cm}
+		{\large $date$\par}
+		\vfill
+		% Erstes Bild aus YAML-Variable
+		$if(titlepage-image)$
+		\includegraphics[]{$titlepage-image$}\par
+		$endif$
+	\end{titlepage}
+	
+	\clearpage
+	
+	% --- Inhaltsverzeichnis ---
+	$if(toc)$
+	\tableofcontents
+	\clearpage
+	$endif$
+	
+	% --- Hauptinhalt ---
+	$body$
+	
+\end{document}

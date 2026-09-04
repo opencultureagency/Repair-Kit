@@ -28,6 +28,8 @@ The originally called **"Urban Repair Kit"** is a first variation as versatile t
 * **Personal Use**: A comprehensive and well-organized toolkit for anyone who wants a solid repair foundation at home, DIY and adaptation possible due to its **open source** collaborative nature
 * `you name it` - add your application scenario via [ticket](https://github.com/opencultureagency/Repair-Kit/issues/new)
 
+**For our new Approach specifically designed for the educational context in German Schools, check-out the [Repair Education](https://github.com/opencultureagency/Repair-Education) Repository!**
+
 ## Modules included
 - Module 1 ([repair-m01](docs/repair-m01.md)): Essentials
 - Module 2 ([repair-m02](docs/repair-m02.md)): Soldering

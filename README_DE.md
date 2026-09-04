@@ -4,7 +4,7 @@
 
 Das **Universelle Reparatur-Kit** ist ein kompaktes, modulares und robustes Werkzeug-Set, das Menschen in Reparaturinitiativen befähigen soll, kleine Geräte, elektronische & Haushaltsgeräte sowie kleinere Maschinen zu reparieren. Sein **Open-Source**-Design und die modulare Organisation machen es zu einer idealen Lösung für eine Vielzahl von Anwendungsfällen, von gemeinschaftlicher Zusammenarbeit bis hin zu persönlichen Projekten.
 
-Website: [https://askotec.openculture.agency/RepairKit](https://askotec.openculture.agency/repairkit)
+Website: <https://askotec.openculture.agency/reparaturkit/>
 
 ## Hauptmerkmale
 
@@ -25,6 +25,8 @@ Das ursprünglich benannte **"Urban Repair Kit"** ist eine erste Variante als vi
 * **Bildung und Ausbildung**: Hervorragendes Hilfsmittel zum Lehren von Reparaturfähigkeiten in Schulen, Volkshochschulen oder Erwachsenenbildungsprogrammen. (Vorschläge für zusätzliche [Features/Materialien](https://github.com/opencultureagency/Repair-Kit/issues/new) für den Bildungszweck sind willkommen.)
 * **Privatnutzung**: Ein umfassendes und gut organisiertes Werkzeugset für alle, die eine solide Reparaturgrundlage zu Hause wünschen; DIY und Anpassungen sind dank der **Open-Source**-Natur möglich.
 * `you name it` – füge dein Anwendungsszenario über ein [Ticket](https://github.com/opencultureagency/Repair-Kit/issues/new) hinzu.
+
+**Für unseren neuen Ansatz, der speziell für den Bildungskontext in deutschen Schulen entwickelt wurde, schaut euch das [Repair-Education](https://github.com/opencultureagency/Repair-Education)-Repository an!**
 
 ## Enthaltene Module
 

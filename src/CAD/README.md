@@ -1,6 +1,6 @@
 # CAD Documentation
 
-> All Files related to CAD Design and digital supported manufacturing of the Kits
+> All Files related to CAD Design and digital supported [manufacturing](../../prod/) of the Kits
 >
 > Currently all CAD Files refer to packaging.
 
@@ -14,11 +14,11 @@
 >
 > Extra Grid: 6x8 (x32mm) with 16mm Offset
 >
-> 20mm Corner Radius
+> New: Inner Corner Radius (similar to Shadowboard layers)
 >
-> [SVG](CAD/Grid-Base-Plate/Base-16grid-9x6+8x6+1+16mm_R20.svg), [DXF](CAD/Grid-Base-Plate/Base-16grid-9x6+8x6+1+16mm_R20.dxf) for manufacturing are available and for editing [FreeCAD](CAD/Grid-Base-Plate/32-grid-Base-Plate+16mm.FCStd)
+> [SVG](../prod/32-grid-Base-Plate+16mm_2D_Export_A4__.svg), [DXF](../prod/32-grid-Base-Plate+16mm_2D_Export_A4__.dxf) for manufacturing are available and for editing [FreeCAD](../CAD/Grid-Base-Plate/32-grid-Base-Plate+16mm.FCStd)
 
-![](../CAD/Grid-Base-Plate/Base-16grid-9x6+8x6+1+16mm_R20-borderless-white.svg)
+![](../../assets/Grid-Base-Plate/32-grid-Base-Plate+16mm_2D_Export_A3__.svg)
 
 
 ## Base Pin
@@ -29,4 +29,3 @@ A simple 3D printable pin for a defined distance between base plates. Requires a
 
 At least 3 per Layer needed, defined by the highest item on the layer. [FreeCAD](CAD/Pin/Base-Pin.FCStd) Source Files can be edited to a hight needed. 
 
-![](../assets/base-pin-example.png) 
